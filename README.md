@@ -35,7 +35,7 @@ Além disso, meus hobbies são: jogar, tocar bateria e acompanhar vários animes
 
 ### 💻 Estudando atualmente
 ![Vue.JS](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/-Probot-00B0D8?style=flat-square&logo=probot&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-00B0D8?style=flat-square&logo=probot&logoColor=white)
 ![IA](https://img.shields.io/badge/-IA-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ### 👀 Estou interessado em
