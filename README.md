@@ -4,6 +4,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mmareep/)](https://www.instagram.com/mmareep/)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=Instagram&logoColor=white&link=https://twitch.tv/ludensfigma)](https://twitch.tv/ludensfigma)
 
+---
+
 Seja bem vindo ao meu GitHub! 👋 Aqui ficam meus projetos de estudo e trabalho. Atualmente sou Programador JR na [Prime Control](https://primecontrol.com.br).
 
 <details>
@@ -16,6 +18,8 @@ Hoje estou estudando para evoluir minhas habilidades e me desafiar à sempre mel
 
 Além disso, meus hobbies são: jogar, tocar bateria e acompanhar vários animes/mangás.
 </details>
+
+---
 
 ### 💼 Trabalho com
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
