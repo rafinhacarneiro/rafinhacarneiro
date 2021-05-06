@@ -1,12 +1,12 @@
 ## :man_technologist: Rafael Carneiro de Moraes
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-carneiro-de-moraes/)](https://www.linkedin.com/in/rafael-carneiro-de-moraes/)
-[![Outlook Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafinhacarneiro@outlook.com)](mailto:rafinhacarneiro@outlook.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mmareep/)](https://www.instagram.com/mmareep/)
-[![Twitch Badge](https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=Instagram&logoColor=white&link=https://twitch.tv/ludensfigma)](https://twitch.tv/ludensfigma)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-FCFCFC?style=flat-square&logo=Linkedin&logoColor=0063B1&link=https://www.linkedin.com/in/rafael-carneiro-de-moraes/)
+![Outlook Badge](https://img.shields.io/badge/-Email-FCFCFC?style=flat&logo=Gmail&logoColor=0063B1&link=mailto:rafinhacarneiro@outlook.com)
+![Instagram Badge](https://img.shields.io/badge/-Instagram-FCFCFC?style=flat&logo=Instagram&logoColora43b9d&link=https://www.instagram.com/mmareep/)
+![Twitch Status](https://img.shields.io/twitch/status/ludensfigma?style=social)
 
 ---
 
-Seja bem vindo ao meu GitHub! 👋 Aqui ficam meus projetos de estudo e trabalho. Atualmente sou Programador JR na [Prime Control](https://primecontrol.com.br).
+Seja bem vindo ao meu GitHub! 👋 Aqui ficam meus projetos de estudo e trabalho. Atualmente sou Desenvolvedor RPA na [Prime Control](https://primecontrol.com.br).
 
 <details>
 <summary> Quer saber mais sobre mim? <i>(Clique aqui para expandir)</i> </summary>
@@ -30,15 +30,16 @@ Além disso, meus hobbies são: jogar, tocar bateria e acompanhar vários animes
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=222)
-![API](https://img.shields.io/badge/-API-000000?style=flat-square&logo=json&logoColor=white)
+![API REST](https://img.shields.io/badge/-API%20REST-000000?style=flat-square&logo=json&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-00B0D8?style=flat-square&logo=probot&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-FFFFFF?style=flat-square&logo=jenkins&logoColor=black)
 
 ### 💻 Estudando atualmente
+![Django](https://img.shields.io/badge/-Django-FCFCFC?style=flat-square&logo=django&logoColor=555)
 ![Vue.JS](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-00B0D8?style=flat-square&logo=probot&logoColor=white)
 ![IA](https://img.shields.io/badge/-IA-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ### 👀 Estou interessado em
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-![Vue.JS](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
