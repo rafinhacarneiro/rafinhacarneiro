@@ -6,7 +6,7 @@
 
 ---
 
-Seja bem vindo ao meu GitHub! 👋 Aqui ficam meus projetos de estudo e trabalho. Atualmente sou Desenvolvedor RPA na [Prime Control](https://primecontrol.com.br).
+Seja bem vindo ao meu GitHub! 👋 Aqui ficam meus projetos de estudo e trabalho. Atualmente sou Analista de Innteligência Artificial JR na [Unimed Curitiba](https://www.unimedcuritiba.com.br/wps/portal/internet).
 
 <details>
 <summary> Quer saber mais sobre mim? <i>(Clique aqui para expandir)</i> </summary>
